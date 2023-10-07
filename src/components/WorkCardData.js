@@ -1,7 +1,7 @@
 
 import pro1 from '../assets/note_img.jpg'
 import pro2 from '../assets/weather_img.jpg'
-import pro3 from '../assets/pro2.jpeg'
+import pro3 from '../assets/WhatsApp Image 2023-10-07 at 21.12.26.jpg'
 
 
 const ProjectCardData=[
@@ -15,13 +15,13 @@ const ProjectCardData=[
         imgsrc: pro2,
         title:"API Based Weather App ",
         text:"This is the weather app maked with the help of html,css,javacsript and react.This app tells you the current weather of the entered city",
-        view:"https://github.com/dashboard"
+        view:"https://chandninegi.github.io/Weather_App/"
     },
     {
         imgsrc: pro3,
-        title:"Registration Form Website",
-        text:"This is the registration form maked with the help of html,css,js,nodejs,mongodb and express.",
-        view:"https://github.com/dashboard"
+        title:"Basic JS Calculator",
+        text:"This is the Basic JS Calculator maked with the help of html,css,js.",
+        view:"https://chandninegi.github.io/Basic-Calculator/"
     }
 ];
 export default ProjectCardData;
