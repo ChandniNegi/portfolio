@@ -20,7 +20,7 @@ const ProjectCardData=[
     {
         imgsrc: pro3,
         title:"Basic JS Calculator",
-        text:"This is the Basic JS Calculator maked with the help of html,css,js.",
+        text:"This is the Basic JS Calculator maked with the help of html,css,js. It is used for mathematical calculations",
         view:"https://chandninegi.github.io/Basic-Calculator/"
     }
 ];
